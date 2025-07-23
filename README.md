@@ -1,6 +1,6 @@
 # Hi there, I'm Rennan Moura! 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in building innovative solutions and exploring new technologies.
+Welcome to my GitHub profile!
 
 ## Technologies & Tools
 
