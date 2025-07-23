@@ -24,7 +24,3 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](http://linkedin.com/in/rennan-moura/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rsmoura252@gmail.com)
 
-## Learning & Fun Fact
-
-- 🌱 I’m currently learning **.NET**
-- ⚡ Fun fact: I love Batman!
